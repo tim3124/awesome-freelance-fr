@@ -71,6 +71,11 @@
 
 + [Toggl : Traqueur de temps](https://toggl.com/)
 
+## Gestionnaire de mots de passes
++ [KeePass](https://keepass.info/download.html)
++ [Dashline](https://www.dashlane.com/fr)
++ [Keeper](https://www.keepersecurity.com)
+
 ## Banque
 
 + [Blank](https://www.blank.app) (fr)
